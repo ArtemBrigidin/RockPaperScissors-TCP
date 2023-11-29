@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors-TCP", "RockPaperScissors-TCP\RockPaperScissors-TCP.csproj", "{AECEE05D-CDB0-4202-8A4E-D1C852EDC7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{CC8AB151-A057-4F1A-B81E-6FE66BE11313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECEE05D-CDB0-4202-8A4E-D1C852EDC7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECEE05D-CDB0-4202-8A4E-D1C852EDC7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECEE05D-CDB0-4202-8A4E-D1C852EDC7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECEE05D-CDB0-4202-8A4E-D1C852EDC7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8AB151-A057-4F1A-B81E-6FE66BE11313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8AB151-A057-4F1A-B81E-6FE66BE11313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8AB151-A057-4F1A-B81E-6FE66BE11313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8AB151-A057-4F1A-B81E-6FE66BE11313}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1F90376-65C8-4387-B703-381A23FFEC3C}
+	EndGlobalSection
+EndGlobal
